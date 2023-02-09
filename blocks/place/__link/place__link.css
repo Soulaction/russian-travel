@@ -9,3 +9,7 @@
   text-underline-offset: 4px;
   align-self: flex-start;
 }
+
+.place__link:hover {
+  opacity: .8;
+}

@@ -14,8 +14,10 @@
   margin-right: 0;
 }
 
-.header__lang-link:focus {
+.header__lang-link:first-child {
   text-decoration: underline;
+  text-underline-offset: 4px;
+  align-self: flex-start;
 }
 
 
