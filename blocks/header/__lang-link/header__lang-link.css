@@ -1,6 +1,5 @@
 .header__lang-link {
   margin: 0;
-  margin-right: 18px;
   padding: 0;
   font-style: normal;
   font-weight: 400;
@@ -10,8 +9,8 @@
   color: #fff;
 }
 
-.header__lang-link:last-child {
-  margin-right: 0;
+.header__lang-link:hover {
+  opacity: .8;
 }
 
 @media screen and (max-width: 320px) {
