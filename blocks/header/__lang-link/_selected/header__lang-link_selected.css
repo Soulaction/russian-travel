@@ -1,0 +1,5 @@
+.header__lang-link_selected {
+    text-decoration: underline;
+    text-underline-offset: 4px;
+    align-self: flex-start;
+  }
